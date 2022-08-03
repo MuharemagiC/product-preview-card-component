@@ -17,7 +17,7 @@
 ### Links
 
 - Solution URL: [https://github.com/MuharemagiC/product-preview-card-component](https://github.com/MuharemagiC/product-preview-card-component)
-- Live Site URL: [https://muharemagic.github.io/time-tracking-dashboard-app/](https://muharemagic.github.io/product-preview-card-component/)
+- Live Site URL: [https://muharemagic.github.io/product-preview-card-component/](https://muharemagic.github.io/product-preview-card-component/)
 
 ## My process
 
